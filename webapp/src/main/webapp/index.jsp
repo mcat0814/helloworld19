@@ -3,3 +3,4 @@
 <h2> Glad to see you here </h2>
 <h1> Good job Marinus on learning Devops</h1>
 <h1> It was difficult getting here but no giving up now.  Keep pushing</h1>
+<h1> Checking if my cron job command is working</h1>
